@@ -11,6 +11,8 @@
 *   **Real-time Transcription:** Powered by Deepgram for low-latency, accurate speech-to-text.
 *   **Contextual Understanding:** Uses Anthropic (Claude) to parse complex sentences into clean, actionable todo items.
 
+<img width="960" height="905" alt="screenshot-babble-stt vercel app-2026 05 11-13_45_59" src="https://github.com/user-attachments/assets/8a53bec2-24f1-4e39-bac2-05b1845a5a06" />
+
 ---
 
 ## 🚀 Getting Started
